@@ -1,0 +1,9 @@
+server:
+  applicationConnectors:
+    - type: http
+      port: 8787
+
+
+  # the only required property is resourcePackage, for more config options see below
+swagger:
+  resourcePackage: rest

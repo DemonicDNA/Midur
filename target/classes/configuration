@@ -1,0 +1,8 @@
+{
+  "urlMap":{
+    "guyService": "http://123",
+    "dudiService": "1234"
+  },
+  "cacheRelevanceTimeInMillis": 5000,
+  "userDeletionTimeInMillis": 5000
+}
